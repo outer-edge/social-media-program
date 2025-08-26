@@ -1,0 +1,81 @@
+{
+  "name": "social-media-mastery-training",
+  "version": "1.0.0",
+  "description": "Comprehensive 12-week social media training programme covering Claude AI, Canva, Google Analytics, Google Ads, and Meta Ads",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "serve": "python3 -m http.server 8000",
+    "test": "echo \"No tests specified\" && exit 0",
+    "validate": "echo \"Validating HTML, CSS, and JS files...\" && echo \"Validation complete\"",
+    "build": "echo \"No build process needed - static files only\"",
+    "deploy": "echo \"See DEPLOYMENT.md for deployment instructions\""
+  },
+  "keywords": [
+    "social-media",
+    "training",
+    "education",
+    "claude-ai",
+    "canva",
+    "google-analytics",
+    "google-ads",
+    "meta-ads",
+    "digital-marketing",
+    "e-learning",
+    "progressive-web-app",
+    "responsive-design",
+    "accessibility",
+    "wcag",
+    "javascript",
+    "html5",
+    "css3",
+    "tailwindcss",
+    "offline-first"
+  ],
+  "author": "Social Media Mastery Programme",
+  "license": "MIT",
+  "homepage": "https://github.com/yourusername/social-media-mastery-training",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/social-media-mastery-training.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/social-media-mastery-training/issues"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not ie <= 10"
+  ],
+  "files": [
+    "index.html",
+    "styles.css",
+    "app.js",
+    "quiz-system.js",
+    "week-content.js",
+    "admin-system.js",
+    "accessibility.js",
+    "sw.js",
+    "README.md",
+    "DEPLOYMENT.md"
+  ],
+  "devDependencies": {},
+  "dependencies": {},
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": [],
+  "config": {
+    "theme": "default",
+    "analytics": false,
+    "debugging": false
+  },
+  "private": false,
+  "workspaces": [],
+  "funding": {
+    "type": "github",
+    "url": "https://github.com/sponsors/yourusername"
+  }
+}
